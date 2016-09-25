@@ -1,6 +1,6 @@
 # Advanced Widget 1
 
-Advanced WIdget 1 ini merupakan sebuah aplikasi yang menerapkan pembuatan widget-widget yang tampil  di layar aplikasi secara programmatic.
+Advanced Widget 1 ini merupakan sebuah aplikasi yang menerapkan pembuatan widget-widget yang tampil di layar aplikasi secara **programmatic** melalui *Java*. Seperti dengan menggunakan method **addView** untuk menambah widget dan method **removeView** untuk menghapus widget ataupun mengatur layout menggunakan *subclass* **LayoutParams**.
 
 ![Start](https://drive.google.com/uc?id=0B7PzuWrOjVW-SGZ1bzJROTIyZGs)
 ![Result](https://drive.google.com/uc?id=0B7PzuWrOjVW-ZTdJU3doSmkzMWc)
